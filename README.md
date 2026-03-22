@@ -1,6 +1,6 @@
 # Top Cybercrime YouTube Channels
 
-A curated list of YouTube channels focused strictly on cybercrime investigations, dark web documentaries, and active threat disruption. 
+A curated list of Cybersecurity YouTube channels focused strictly on cybercrime investigations, dark web documentaries, and active threat disruption. 
 
 | Channel Name | Focus & Description | Link |
 | :--- | :--- | :--- |
